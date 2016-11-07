@@ -1,9 +1,21 @@
 #intro {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .btn {
+    background-color: #7ec6cc;
+    width: 100px;
+    font-size: 20px;
+}
 
+.btn:hover{
+    background-color: #b8e2e3;
+}
+
+#welcome {
+    text-align: center;
+    margin: 60px 0 50px 0;
 }
 
 #about{
